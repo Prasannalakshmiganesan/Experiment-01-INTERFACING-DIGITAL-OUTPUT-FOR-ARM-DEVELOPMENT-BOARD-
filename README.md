@@ -168,11 +168,11 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
-##BEFORE RUNNING :
+## BEFORE RUNNING :
 ![PMC02](https://github.com/Prasannalakshmiganesan/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118610231/4ecf075c-d8c6-4b58-ac68-33cf55876a66)
 
  
-##AFTER RUNNING :
+## AFTER RUNNING :
  ![PMC01](https://github.com/Prasannalakshmiganesan/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118610231/08480ff8-8a31-4750-af21-8276c52c5aa9)
 
 ## Result :
